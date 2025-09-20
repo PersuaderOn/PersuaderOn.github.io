@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>导航 on 西之藏馆·月见月廿八</title>
+        <link>http://localhost:1313/categories/%E5%AF%BC%E8%88%AA/</link>
+        <description>Recent content in 导航 on 西之藏馆·月见月廿八</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Slayercat</copyright>
+        <lastBuildDate>Sat, 20 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E5%AF%BC%E8%88%AA/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>置顶但置不了顶</title>
+        <link>http://localhost:1313/p/guide/</link>
+        <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/guide/</guid>
+        <description>&lt;img src="http://localhost:1313/p/guide/56237a5c849bbe4a2b4c4958cb58ce3671e413c3.png" alt="Featured image of post 置顶但置不了顶" /&gt;&lt;p&gt;&lt;strong&gt;致我。互联网是真的没有记忆，曾经以为会被长期保存的记录，早已经绝大部分流失。
+就让那些回忆，暂时安眠在这里吧。&lt;/strong&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>To do</title>
+        <link>http://localhost:1313/p/guide2/</link>
+        <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/guide2/</guid>
+        <description>&lt;img src="http://localhost:1313/p/guide2/56237a5c849bbe4a2b4c4958cb58ce3671e413c4.png" alt="Featured image of post To do" /&gt;&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 1.Ro搬迁&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 2.网络有趣圣物收集&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
