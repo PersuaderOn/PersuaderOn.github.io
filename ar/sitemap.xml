@@ -7,17 +7,17 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://persuaderon.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/categories/"
+                href="https://persuaderon.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/categories/"
+                href="https://persuaderon.github.io/ar/categories/"
                 />
   </url><url>
     <loc>http://localhost:1313/ar/post/</loc>
@@ -25,12 +25,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/post/"
+                href="https://persuaderon.github.io/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/post/"
+                href="https://persuaderon.github.io/ar/post/"
                 />
   </url><url>
     <loc>http://localhost:1313/ar/tags/</loc>
@@ -38,17 +38,17 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://persuaderon.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/tags/"
+                href="https://persuaderon.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/tags/"
+                href="https://persuaderon.github.io/ar/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/ar/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</loc>
@@ -65,12 +65,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/p/placeholder-text/"
+                href="https://persuaderon.github.io/p/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
+                href="https://persuaderon.github.io/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
                 />
   </url><url>
     <loc>http://localhost:1313/ar/</loc>
@@ -78,17 +78,17 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://persuaderon.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/"
+                href="https://persuaderon.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/"
+                href="https://persuaderon.github.io/ar/"
                 />
   </url><url>
     <loc>http://localhost:1313/ar/tags/%D9%86%D8%B5/</loc>
