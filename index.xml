@@ -7,10 +7,66 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Slayercat</copyright>
-        <lastBuildDate>Sat, 20 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 03 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>互联网趣图2组</title>
+        <link>http://localhost:1313/p/funst/</link>
+        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/funst/</guid>
+        <description>&lt;img src="http://localhost:1313/p/funst/20251003213233.jpg" alt="Featured image of post 互联网趣图2组" /&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/funst/20251003213226.jpg&#34;
+	width=&#34;1080&#34;
+	height=&#34;1394&#34;
+	srcset=&#34;http://localhost:1313/p/funst/20251003213226_hu11069287492349629538.jpg 480w, http://localhost:1313/p/funst/20251003213226_hu3805090511184096278.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;77&#34;
+		data-flex-basis=&#34;185px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/funst/20251003213233.jpg&#34;
+	width=&#34;1080&#34;
+	height=&#34;795&#34;
+	srcset=&#34;http://localhost:1313/p/funst/20251003213233_hu1208960929881296595.jpg 480w, http://localhost:1313/p/funst/20251003213233_hu14231249402469350667.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;135&#34;
+		data-flex-basis=&#34;326px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/funst/20251003213220.jpg&#34;
+	width=&#34;330&#34;
+	height=&#34;224&#34;
+	srcset=&#34;http://localhost:1313/p/funst/20251003213220_hu12061137965010216910.jpg 480w, http://localhost:1313/p/funst/20251003213220_hu15598342592731212424.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;147&#34;
+		data-flex-basis=&#34;353px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/funst/20251003213213.png&#34;
+	width=&#34;576&#34;
+	height=&#34;245&#34;
+	srcset=&#34;http://localhost:1313/p/funst/20251003213213_hu5176829608008238186.png 480w, http://localhost:1313/p/funst/20251003213213_hu7965142064023987463.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;235&#34;
+		data-flex-basis=&#34;564px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>置顶但置不了顶</title>
         <link>http://localhost:1313/p/guide/</link>
-        <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/p/guide/</guid>
         <description>&lt;img src="http://localhost:1313/p/guide/20250117213328.png" alt="Featured image of post 置顶但置不了顶" /&gt;&lt;p&gt;&lt;strong&gt;致我。互联网是真的没有记忆，曾经以为会被长期保存的记录，早已经绝大部分流失。
@@ -24,7 +80,7 @@
         
         <guid>http://localhost:1313/p/guide2/</guid>
         <description>&lt;img src="http://localhost:1313/p/guide2/56237a5c849bbe4a2b4c4958cb58ce3671e413c4.png" alt="Featured image of post To do" /&gt;&lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 1.Ro搬迁&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 1.Ro搬迁&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 2.网络有趣圣物收集&lt;/li&gt;
 &lt;/ul&gt;
 </description>
